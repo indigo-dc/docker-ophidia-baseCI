@@ -1,5 +1,5 @@
 FROM indigodatacloud/packaging:bcentos_latest
-MAINTAINER <ophidia-info@lists.cmcc.it>
+MAINTAINER <ophidia-info@cmcc.it>
 
 USER root
 
